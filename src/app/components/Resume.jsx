@@ -29,7 +29,7 @@ function Resume() {
                     </p>
                     <p> 
                         I then moved on to C++ and JUCE, which allowed me to learn OOP more deeply by working on adding new features to existing tools. I also learned a bit of JavaScript, HTML, and CSS to create web-based interfaces for future plugins.
-                         I&apos;m currently learning web front-end development to expand my skills and change my career path. I&apos;ve always been curious and passionate about technology. I find programming to be a (painfully) fascinating and rewarding challenge, and I&apos;m excited to see where this new path will take me.
+                        I&apos;m currently learning web front-end development to expand my skills and change my career path. I&apos;ve always been curious and passionate about technology. I find programming to be a (painfully) fascinating and rewarding challenge, and I&apos;m excited to see where this new path will take me.
                     </p>
                     <p>
                         I&apos;ve always been engaged in human rights and social justice issues, and I&apos;m particularly involved in the cancer community and the right to die with dignity. I&apos;m also the father of a child with dwarfism so I&apos;m deeply involved in the fight against discrimination and for the rights of people with disabilities.
@@ -49,7 +49,7 @@ function Resume() {
             <div className="row p-4">
                 <div className="col p-3 text-center">
                     <a
-                        href="/DV-CV2025_en.pdf"
+                        href="/portfolio/DV-CV2025_en.pdf"
                         target="_blank"
                         rel="noreferrer"
                         className="btn btn-primary btn-download"
@@ -60,7 +60,7 @@ function Resume() {
                 </div>
                 <div className="col p-3 text-center">
                     <a
-                        href="/DV-CV2025_fr.pdf"
+                        href="/portfolio/DV-CV2025_fr.pdf"
                         target="_blank"
                         rel="noreferrer"
                         className="btn btn-primary btn-download"
