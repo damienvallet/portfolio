@@ -13,12 +13,13 @@
 import React, { useState, useEffect } from "react";
 
 const taglines = [
+  "Developer",
   "Audio Creative",
-  "Sound Designer",
-  "Musician",
-  "Sound Engineer",
-  "Audio Product Designer",
   "Programmer",
+  "Product Designer",
+  "Musician",
+  "Sound Designer",
+  // "Sound Engineer",
 ];
 
 const getRandomTagline = () => {
@@ -52,7 +53,7 @@ const Home = () => {
           <p className="biography mx-auto">
             <b>About me : </b>
             <br />
-            I&apos;m a sound activist with over a decade of experience in the audio software industry.
+            I&apos;m a sound activist with over sixty releases in the audio software world; driven by creativity, care, and collaboration.
           </p>
         </div>
       </section>
